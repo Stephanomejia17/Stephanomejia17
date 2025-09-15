@@ -8,7 +8,7 @@
 
 - 🎓 Systems Engineering Student @ University of Medellín  
 - 💻 Aspiring **FullStack Engineer** with a passion for back-end and problem solving  
-- 🚀 Currently learning: **Cloud Computing, Blockchain, and Web3**  
+- 🚀 Currently learning: **Cloud Computing, IoT development, and Web3**  
 - 🌱 Strong interest in **AI, Data Structures, and Software Architecture**  
 - 🔧 Skilled in:  
   - **SQL Server**  
